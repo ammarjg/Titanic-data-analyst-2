@@ -60,7 +60,3 @@ The dataset contains the following columns:
 2. Install required libraries:
 ```bash
     pip install pandas matplotlib seaborn
-
-
-
-
