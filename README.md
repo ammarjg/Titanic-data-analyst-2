@@ -55,7 +55,7 @@ The dataset contains the following columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ammarjg/titanic-data-analysis.git
+   git clone https://github.com/ammarjg/Titanic-data-analyst-2.git
 
 2. Install required libraries:
    ```bash
