@@ -58,5 +58,8 @@ The dataset contains the following columns:
    git clone https://github.com/ammarjg/titanic-data-analysis.git
 
 2. Install required libraries:
-```bash
+   ```bash
     pip install pandas matplotlib seaborn
+
+3. Run the analysis:
+Open `titanic_analysis.ipynb` in Jupyter Notebook or any Python IDE to explore the dataset.
